@@ -97,6 +97,7 @@ Name: Onagadanalyst
 Role: Data & Market Analyst | Building Expertise in Augmented Analytics and AI Automation
 LinkedIn: 
 GitHub: https://github.com/o-danalyst
+Email: onagatheanalyst@gmail.com
 
 ---
 

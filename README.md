@@ -95,7 +95,7 @@ Example visuals from the notebook include:
 
 Name: Onagadanalyst
 Role: Data & Market Analyst | Building Expertise in Augmented Analytics and AI Automation
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/clinton-onaga-b86027375/
 GitHub: https://github.com/o-danalyst
 Email: onagatheanalyst@gmail.com
 
